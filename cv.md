@@ -1,6 +1,9 @@
 # **Daria Bromot**
 Front-End Developer, Bachelor of Computer Science, Specialist of Artificial Intelligence
 
+
+![photo](C:\Users\bromotdi\rs_school\rsschool-cv\foto.png "photo")
+
 ---
 
 ## Contact info

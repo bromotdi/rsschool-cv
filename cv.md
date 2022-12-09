@@ -2,7 +2,7 @@
 Front-End Developer, Bachelor of Computer Science, Specialist of Artificial Intelligence
 
 
-![photo](../rsschool-cv/foto.png "photo")
+![photo](foto.png "photo")
 
 ---
 

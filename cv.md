@@ -79,7 +79,7 @@ My professional projects on GitHub (HTML/SCSS, JavaScript, TypeScript, PHP, Reac
 [https://github.com/bromotdi](https://github.com/bromotdi)
 
 ## Code Example
-
+```
 const multiply = (a, b) => a * b;
 
 const assert = require("chai").assert;
@@ -98,7 +98,7 @@ describe("Multiply", () => {
         }
     });
 });
-
+```
 ---
 
 ## Skills

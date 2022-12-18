@@ -648,6 +648,12 @@ h3.my-profession
     max-width: 50%;
     margin-bottom: 30px;
 }
+
+.portfolio-img h3
+{
+    text-align: center;
+}
+
 .portfolio .portfolio-item .last
 {
     flex: 0 0 50%;

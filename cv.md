@@ -109,11 +109,11 @@ Soft: `Kanban` `Scrum` `Agile` `Teamwork`
 
 ## Language
 
-English: `Upper-Intermediate` 
+``English: `Upper-Intermediate` 
 
 Ukrainian: `Native`
 
-Russian: `Fluent`
+Russian: `Fluent```
 
 ## Interest
 

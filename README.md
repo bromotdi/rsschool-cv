@@ -1,1 +1,1 @@
-https://github.com/bromotdi/rsschool-cv/cv
+https://github.com/bromotdi/rsschool-cv

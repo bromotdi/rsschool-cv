@@ -57,8 +57,6 @@ const nav = document.querySelector(".nav"),
           document.querySelector("#" + target).classList.add("active")
       }
 
-
-
       const navTogglerBtn = document.querySelector(".nav-toggler"),
             aside = document.querySelector(".aside");
       console.log('navTogglerBtn', navTogglerBtn)

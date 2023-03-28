@@ -263,15 +263,15 @@
                             <h4>Code Example</h4>
                             <div>
                     <pre><code>
-                      const multiply = (a, b) => a * b
+                      const multiply = (a, b) =&gt; a * b
                       const assert = require("chai").assert
-                      describe("Multiply", () => {
-                        it("fixed tests", () => {
+                      describe("Multiply", () =&gt; {
+                        it("fixed tests", () =&gt; {
                           assert.strictEqual(multiply(1,1), 1);
                           assert.strictEqual(multiply(2,1), 2);
                           assert.strictEqual(multiply(2,2), 4);
                           assert.strictEqual(multiply(3,5), 15); });
-                        it('random tests', () => {
+                        it('random tests', () =&gt; {
                           for(let i=0; i&lt;100; i++) {
                           let [a,b] = [Math.random()*100|0, Math.random()*100|0];
                           assert.strictEqual(multiply(a,b), a*b);}
